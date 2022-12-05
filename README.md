@@ -22,8 +22,14 @@ journal = {Artificial Intelligence Review},
 doi = {10.1007/s10462-022-10302-5}
 }
 ```
-## Methods
-TODO
+## Methods (work in progress!)
+|Name|Task(s)|Paper|Code|
+|--|--|--|--|
+|VESPCN|Super-resolution|Real-time video super-resolution with spatio-temporal networks and motion compensation (CVPR 2017)|[[Pytorch](https://github.com/JuheonYi/VESPCN-PyTorch)]|
+|DBN|Deblurring|Deep Video Deblurring for Hand-held Cameras (CVPR 2017)|[[Lua](https://github.com/shuochsu/DeepVideoDeblurring)]|
+|STRCNN|Deblurring|Online video deblurring via dynamic temporal blending network (ICCV 2017)|:x:|
+|DBLRGAN|Deblurring|Adversarial spatio-temporal learning for video deblurring (TIP 2018)|:x:|
+
 
 ## Datasets
 |Name|Task(s)|Usage|Repository|
