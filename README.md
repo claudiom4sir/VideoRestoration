@@ -22,3 +22,24 @@ journal = {Artificial Intelligence Review},
 doi = {10.1007/s10462-022-10302-5}
 }
 ```
+## Methods
+
+## Datasets
+|Name|Task(s)|Usage|Repository|
+|--|--|--|--|
+|GOPRO|Deblurring|Train/Test|[[Link](https://seungjunnah.github.io/Datasets/gopro)]|
+|DVD|Deblurring|Train/Test|[[Link](https://www.cs.ubc.ca/labs/imager/tr/2017/DeepVideoDeblurring/)]|
+|BSD|Deblurring|Train/Test|[[Link](https://github.com/zzh-tech/ESTRNN)]|
+|REDS|Deblurring, Super-resolution|Train/Test|[[Link](https://seungjunnah.github.io/Datasets/reds.html)]|
+|Vid4|Super-resolution|Test|[[Link](https://people.csail.mit.edu/celiu/CVPR2011/default.html)]|
+|UDM10|Super-resolution|Test|[[Link](https://github.com/psychopa4/PFNL)]|
+|SPMCS|Super-resolution|Test|[[Link](https://github.com/jiangsutx/SPMC_VideoSR)]|
+|Vimeo90K|Denoising, Super-resolution, Compression artifact resolution|Train/Test|[[Link](http://toflow.csail.mit.edu/)]| 
+|MFQEv2|Compression artifact reduction|Train/Test|[[Link](https://github.com/RyanXingQL/MFQEv2.0)]|
+|CRVD|Denoising|Train/Test|[[Link](https://github.com/cao-cong/RViDeNet)]|
+|Set8|Denoising|Test|[[Link](https://github.com/m-tassano/fastdvdnet)]|
+|DAVIS 2017|Denoising|Train/Test|[[Link](https://davischallenge.org/davis2017/code.html)]|
+
+
+## Contacts
+If you have any question, please contact Claudio Rota at c.rota30@campus.unimib.it
