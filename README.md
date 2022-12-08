@@ -22,7 +22,7 @@ journal = {Artificial Intelligence Review},
 doi = {10.1007/s10462-022-10302-5}
 }
 ```
-## Methods (work in progress!)
+## Methods for video restoration (work in progress!)
 |Name|Task(s)|Paper|Code|
 |--|--|--|--|
 |VESPCN|Super-resolution|Real-time video super-resolution with spatio-temporal networks and motion compensation (CVPR 2017)|[[Pytorch](https://github.com/JuheonYi/VESPCN-PyTorch)]|
@@ -31,7 +31,7 @@ doi = {10.1007/s10462-022-10302-5}
 |DBLRGAN|Deblurring|Adversarial spatio-temporal learning for video deblurring (TIP 2018)|:x:|
 
 
-## Datasets
+## Datasets for video restoration
 |Name|Task(s)|Usage|Repository|
 |--|--|--|--|
 |GOPRO|Deblurring|Train/Test|[[Link](https://seungjunnah.github.io/Datasets/gopro)]|
