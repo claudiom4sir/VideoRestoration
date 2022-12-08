@@ -29,6 +29,27 @@ doi = {10.1007/s10462-022-10302-5}
 |DBN|Deblurring|Deep Video Deblurring for Hand-held Cameras (CVPR 2017)|[[Torch](https://github.com/shuochsu/DeepVideoDeblurring)]|
 |STRCNN|Deblurring|Online video deblurring via dynamic temporal blending network (ICCV 2017)|:x:|
 |DBLRGAN|Deblurring|Adversarial spatio-temporal learning for video deblurring (TIP 2018)|:x:|
+|DUF|Super-resolution|Deep Video Super-Resolution Network Using Dynamic Upsampling FiltersWithout Explicit Motion Compensation (CVPR 2018)|[[TensorFlow](https://github.com/yhjo09/VSR-DUF)]|
+|MFQE|Compression artifact reduction|Multi-Frame Quality Enhancement for Compressed Video (CVPR 2018)|[[TensorFlow](https://github.com/ryangBUAA/MFQE)]|
+|ToFlow|Denoising, Super-resolution, Compression artifact reduction|Video Enhancement with Task-Oriented Flow (IJCV 2019)|[[Torch](https://github.com/anchen1011/toflow)]|
+|DVDNet|Denoising|Dvdnet: A fast network for deep video denoising (ICIP 2019)|[[Pytorch](https://github.com/m-tassano/dvdnet)]|
+|MFQE2.0|Compression artifact reduction|MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video (TPAMI 2019)|[[TensorFlow](https://github.com/RyanXingQL/MFQEv2.0)]
+|STFAN|Deblurring|Spatio-Temporal Filter Adaptive Network for Video Deblurring (ICCV 2019)|[[Pytorch](https://github.com/sczhou/STFAN)]
+|EDVR|Deblurring, Super-resolution|Edvr: Video restoration with enhanced deformable convolutional networks (CVPR 2019)|[[Pytorch](https://github.com/open-mmlab/mmediting)]
+|ViDeNN|Denoising|ViDeNN: Deep Blind Video Denoising (CVPR 2019)|[[TensorFlow](https://github.com/clausmichele/ViDeNN)]|
+|FITVNet|Denoising|First image then video: A two-stage network for spatiotemporal video denoising (2019)|:x:|
+|VNLNet|Denoising|A Non-Local CNN for Video Denoising (ICIP 2019)|:x:|
+|NL-ConvLSTM|Compression artifact reduction|Non-local convlstm for video compression artifact reduction (ICCV 2019)|[[Pytorch](https://github.com/xyiyy/NL-ConvLSTM)]|
+|MB2D|Deblurring|Blur more to deblur better: Multi-blur2deblur for efficient video deblurring (2020)|:x:|
+|FastDVDNet|Denoising|Fastdvdnet: Towards real-time deep video denoising without flow estimation (CVPR 2020)|[[Pytorch](https://github.com/m-tassano/fastdvdnet)]|
+|TDAN|Super-resolution|Tdan: Temporally-deformable alignment network for video super-resolution (CVPR 2020)|[[Pytorch](https://github.com/YapengTian/TDAN-VSR-CVPR-2020)]|
+|ESTRNN|Deblurring|Efficient spatio-temporal recurrent neural network for video deblurring (ECCV 2020)|[[Pytorch](https://github.com/zzh-tech/ESTRNN)]|
+|STDF|Compression artifact reduction|Spatio-temporal deformable convolution for compressed video quality enhancement (AAAI 2020)|[[Pytorch](https://github.com/RyanXingQL/STDF-PyTorch)]|
+|MuCAN|Super-resolution|Mucan: Multi-correspondence aggregation network for video super-resolution (ECCV 2020)|[[Pytorch](https://github.com/dvlab-research/Simple-SR)]|
+|RViDeNet|Denoising|Supervised raw video denoising with a benchmark dataset on dynamic scenes (CVPR 2020)|[[Pytorch](https://github.com/cao-cong/RViDeNet)]|
+|RSDN|Super-resolution|Video super-resolution with recurrent structure-detail network (ECCV 2020)|[[Pytorch](https://github.com/junpan19/RSDN)]|
+|CDVD-TSP|Deblurring|Cascaded deep video deblurring using temporal sharpness prior (CVPR 2020)|[[Pytorch](https://github.com/csbhr/CDVD-TSP)]|
+|Evrnet|Denoising, Super-resolution, Compression artifact reduction|Evrnet: Efficient video restoration on edge devices (ICM 2021)|:x:|
 
 
 ## Datasets for video restoration
