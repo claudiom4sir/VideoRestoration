@@ -22,7 +22,7 @@ journal = {Artificial Intelligence Review},
 doi = {10.1007/s10462-022-10302-5}
 }
 ```
-## Methods for video restoration (work in progress!)
+## Methods for video restoration
 |Name|Task(s)|Paper|Code|
 |--|--|--|--|
 |VESPCN|Super-resolution|Real-time video super-resolution with spatio-temporal networks and motion compensation (CVPR 2017)|[[Pytorch](https://github.com/JuheonYi/VESPCN-PyTorch)]|
@@ -35,8 +35,10 @@ doi = {10.1007/s10462-022-10302-5}
 |DVDNet|Denoising|Dvdnet: A fast network for deep video denoising (ICIP 2019)|[[Pytorch](https://github.com/m-tassano/dvdnet)]|
 |MFQE2.0|Compression artifact reduction|MFQE 2.0: A New Approach for Multi-frame Quality Enhancement on Compressed Video (TPAMI 2019)|[[TensorFlow](https://github.com/RyanXingQL/MFQEv2.0)]
 |STFAN|Deblurring|Spatio-Temporal Filter Adaptive Network for Video Deblurring (ICCV 2019)|[[Pytorch](https://github.com/sczhou/STFAN)]
-|EDVR|Deblurring, Super-resolution|Edvr: Video restoration with enhanced deformable convolutional networks (CVPR 2019)|[[Pytorch](https://github.com/open-mmlab/mmediting)]
+|EDVR|Deblurring, Super-resolution|Edvr: Video restoration with enhanced deformable convolutional networks (CVPR 2019)|[[Pytorch](https://github.com/open-mmlab/mmediting)]|
+|PFNL|Super-resolution|Progressive Fusion Video Super-Resolution Network via Exploiting Non-Local Spatio-Temporal Correlations (ICCV 2019)|[[Pytorch/TensorFlow](https://github.com/psychopa4/PFNL)]|
 |ViDeNN|Denoising|ViDeNN: Deep Blind Video Denoising (CVPR 2019)|[[TensorFlow](https://github.com/clausmichele/ViDeNN)]|
+|IFI-RNN|Deblurring|Recurrent neural networks with intra-frame iterations for video deblurring (CVPR 2019)|:x:|
 |FITVNet|Denoising|First image then video: A two-stage network for spatiotemporal video denoising (2019)|:x:|
 |VNLNet|Denoising|A Non-Local CNN for Video Denoising (ICIP 2019)|:x:|
 |NL-ConvLSTM|Compression artifact reduction|Non-local convlstm for video compression artifact reduction (ICCV 2019)|[[Pytorch](https://github.com/xyiyy/NL-ConvLSTM)]|
@@ -50,6 +52,15 @@ doi = {10.1007/s10462-022-10302-5}
 |RSDN|Super-resolution|Video super-resolution with recurrent structure-detail network (ECCV 2020)|[[Pytorch](https://github.com/junpan19/RSDN)]|
 |CDVD-TSP|Deblurring|Cascaded deep video deblurring using temporal sharpness prior (CVPR 2020)|[[Pytorch](https://github.com/csbhr/CDVD-TSP)]|
 |Evrnet|Denoising, Super-resolution, Compression artifact reduction|Evrnet: Efficient video restoration on edge devices (ICM 2021)|:x:|
+|MMNet|Denoising|Multiframe-to-multiframe network for video denoising (TOM 2021)|:x:|
+|RFDA|Compression artifact reduction|Recursive fusion and deformable spatiotemporal attention for video compression artifact reduction (ICM 2021)|[[Pytorch](https://github.com/zhaominyiz/RFDA-PyTorch)]|
+|PVDNet|Deblurring|Recurrent video deblurring with blur-invariant motion estimation and pixel volumes (TOG 2021)|[[Pytorch](https://github.com/codeslake/PVDNet)]|
+|MaskDNGAN|Denoising|Multi-Stage Raw Video Denoising with Adversarial Loss and Gradient Mask (ICCP 2021)|[[Pytorch](https://github.com/avinashpaliwal/MaskDnGAN)]|
+|PaCNet|Denoising|Patch craft: Video denoising by deep modeling and patch matching (ICCV 2021)|[[Pytorch](https://github.com/grishavak/PaCNet-denoiser)]|
+|BasicVSR|Super-resolution|BasicVSR: The search for essential components in video super-resolution and beyond (CVPR 2021)|[[Pytorch](https://github.com/open-mmlab/mmediting)]|
+|BasicVSR++|Super-resolution|BasicVSR++: Improving video super-resolution with enhanced propagation and alignment (CVPR 2022)|[[Pytorch](https://github.com/open-mmlab/mmediting)]|
+
+
 
 
 ## Datasets for video restoration
