@@ -73,7 +73,7 @@ doi = {10.1007/s10462-022-10302-5}
 |Vid4|Super-resolution|Test|[[Link](https://people.csail.mit.edu/celiu/CVPR2011/default.html)]|
 |UDM10|Super-resolution|Test|[[Link](https://github.com/psychopa4/PFNL)]|
 |SPMCS|Super-resolution|Test|[[Link](https://github.com/jiangsutx/SPMC_VideoSR)]|
-|Vimeo90K|Denoising, Super-resolution, Compression artifact resolution|Train/Test|[[Link](http://toflow.csail.mit.edu/)]| 
+|Vimeo90K|Denoising, Super-resolution, Compression artifact reduction|Train/Test|[[Link](http://toflow.csail.mit.edu/)]| 
 |MFQEv2|Compression artifact reduction|Train/Test|[[Link](https://github.com/RyanXingQL/MFQEv2.0)]|
 |CRVD|Denoising|Train/Test|[[Link](https://github.com/cao-cong/RViDeNet)]|
 |Set8|Denoising|Test|[[Link](https://github.com/m-tassano/fastdvdnet)]|
