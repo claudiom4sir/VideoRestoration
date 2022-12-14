@@ -13,13 +13,13 @@ Video restoration concerns the recovery of a clean video sequence starting from 
 
 ```
 @article{rota2022video,
-author = {Rota, Claudio and Buzzelli, Marco and Bianco, Simone and Schettini, Raimondo},
-year = {2022},
-month = {10},
-pages = {1-48},
-title = {Video restoration based on deep learning: a comprehensive survey},
-journal = {Artificial Intelligence Review},
-doi = {10.1007/s10462-022-10302-5}
+  author = {Rota, Claudio and Buzzelli, Marco and Bianco, Simone and Schettini, Raimondo},
+  year = {2022},
+  month = {10},
+  pages = {1-48},
+  title = {Video restoration based on deep learning: a comprehensive survey},
+  journal = {Artificial Intelligence Review},
+  doi = {10.1007/s10462-022-10302-5}
 }
 ```
 ## Methods for video restoration
