@@ -7,7 +7,7 @@
 
 
 ## Abstract
-Video restoration concerns the recovery of a clean video sequence starting from its degraded version. Diferent video restoration tasks exist, including denoising, deblurring, super-resolution, and reduction of compression artifacts. In this paper, we provide a comprehensive review of the main features of existing video restoration methods based on deep learning. We focus our attention on the main architectural components, strategies for motion handling, and loss functions. We analyze the standard benchmark datasets and use them to summarize the performance of video restoration methods, both in terms of effectiveness and efficiency. In conclusion, the main challenges and future research directions in video restoration using deep learning are highlighted.
+Video restoration concerns the recovery of a clean video sequence starting from its degraded version. Different video restoration tasks exist, including denoising, deblurring, super-resolution, and reduction of compression artifacts. In this paper, we provide a comprehensive review of the main features of existing video restoration methods based on deep learning. We focus our attention on the main architectural components, strategies for motion handling, and loss functions. We analyze the standard benchmark datasets and use them to summarize the performance of video restoration methods, both in terms of effectiveness and efficiency. In conclusion, the main challenges and future research directions in video restoration using deep learning are highlighted.
 
 ## Citation
 
